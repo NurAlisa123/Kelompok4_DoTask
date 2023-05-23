@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672649280276",
+    "firebase_url": "https://projekakhirpm-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "projekakhirpm",
+    "storage_bucket": "projekakhirpm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672649280276:android:1f114cf3ba97b8a0b16001",
+        "android_client_info": {
+          "package_name": "com.example.projekakhirpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672649280276-9qb2mlgb7gdok04he19lep469nih7e4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projekakhirpm",
+            "certificate_hash": "42ffa50d762a3399b3dccd029c94fb37a9f4817e"
+          }
+        },
+        {
+          "client_id": "672649280276-qhu1nvath91otu00bukgl2r5lj6p442p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMbJRxF2qM_AoCMuMGzGFs4tRcNhPa_Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672649280276-qhu1nvath91otu00bukgl2r5lj6p442p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
